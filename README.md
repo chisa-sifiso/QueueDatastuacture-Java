@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>README - Queue Activity</title>
-</head>
+
 <body>
     <h1>Queue-Activity-Java</h1>
     <p>This repository contains a Java implementation of a Queue using an array, demonstrating circular queue behavior and basic queue operations.</p>
