@@ -30,7 +30,7 @@ Queue-Activity-Java/
 <h2>Usage</h2>
     <p>Clone the repository, compile the Java source files, and run the Main class:</p>
     <pre>
-git clone https://github.com/yourusername/Queue-Activity-Java.git
+git clone https://github.com/Chisa-sifiso/Queue-Activity-Java.git
 cd Queue-Activity-Java/src
 javac Main.java
 java Main
