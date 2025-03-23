@@ -47,6 +47,7 @@ System.out.println("Dequeued: " + queue.dequeue());
 queue.printQueue();
     </pre>
     <h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
+    <p>This project is licensed under the MIT License.</p>#
+   <h3>Developed by Sifiso Vinjwa </h3>
 </body>
 </html>
